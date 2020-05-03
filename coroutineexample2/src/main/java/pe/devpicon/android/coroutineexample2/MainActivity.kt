@@ -14,11 +14,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         btn_launch.setOnClickListener {
-            CoroutineScope(Dispatchers.IO).launch{
 
-
-
-            }
         }
     }
 }
