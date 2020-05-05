@@ -1,3 +1,4 @@
 rootProject.name='My Coroutine Examples'
 include ':app'
 include ':coroutineexample2'
+include ':coroutineexample3'
